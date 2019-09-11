@@ -10,3 +10,6 @@ The python file then takes the "saved.png" and compares the images with the give
 
 # About The Dataset
 It is a simple dataset taken from github but grouped and renamed for easy access.
+
+# Note
+Setting up OpenCV is required to run this project.Please setup OpenCV in your IDE or the environment.
